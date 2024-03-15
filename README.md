@@ -7,7 +7,7 @@
   <samp>
    </a>
     <br>
-    「 estudando front-end 」
+    「 especificação em front-end 」
     <br>
   </samp>
 </p>
