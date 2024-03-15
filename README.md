@@ -7,9 +7,7 @@
   <samp>
    </a>
     <br>
-    「 desenvolvedora front-end 」
-    <br>
-    「 analista de dados 」
+    「 estudando front-end 」
     <br>
   </samp>
 </p>
